@@ -223,7 +223,7 @@ Members are required to sign an ethics agreement or any new or updated ethics ag
 
 ### Section B. Attendance
 
-Members must attend fifty percent of in house meetings or fifty percent of meetings where remote participation was made possible.
+Members must attend at least three in-house meetings and at least one additional club sponsored event per attending semester.
 
 ## Article XV: Amendments
 
