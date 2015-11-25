@@ -175,7 +175,7 @@ The outgoing President and Treasurer are responsible for transferring financial 
 
 ### Section D. Handling of Funds
 
-Funds, such as membership dues or donations, may be collected by any elected officer, but must be turned over to the Treasurer or President within 48 business hours. Once received by the Treasurer or President, funds shall be deposited within 48 business hours of collection, absent exceptional circumstances. 
+Funds, obtained through donations, may be collected by any elected officer, but must be turned over to the Treasurer or President within 48 business hours. Once received by the Treasurer or President, funds shall be deposited within 48 business hours of collection, absent exceptional circumstances.
 
 ### Section E.  Financial Obligations
 
