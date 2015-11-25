@@ -216,17 +216,12 @@ Standing committees must be called at least once each year by a vote of the exec
 The organization may endorse a candidate only in a general or nonpartisan election. Any endorsement may be proposed to the general body by any active student member. An endorsement is ratified by a two-thirds vote of active student members present at the meeting. If two candidates in the same race are proposed for endorsement, they will be voted for on the same ballot. In all votes, the option of non-endorsement will be provided. Votes will go to a runoff if no option receives a two thirds majority. If no option receives a two thirds majority in the final vote, the organization will not endorse any candidate in that race. Endorsement votes must be announced at least one week prior. 
 
 ## Article XIV: Stipulations Regarding Active Membership
- 
-### Section A. Online Resources
 
-- Part 1: Mailing List - Members are required to interact, contribute, and be a part of the Student Information Security Team mailing list.
-- Part 2: IRC - Members are required to interact and look for announcements   on the Student Information Security Team IRC channel.
-
-### Section B. Ethics Agreement
+### Section A. Ethics Agreement
 
 Members are required to sign an ethics agreement or any new or updated ethics agreements agreed upon by both the officers and faculty adviser. Members must abide by this ethics agreement.
 
-### Section C. Attendance
+### Section B. Attendance
 
 Members must attend fifty percent of in house meetings or fifty percent of meetings where remote participation was made possible.
 
