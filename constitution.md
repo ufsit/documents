@@ -112,7 +112,7 @@ Term of office for all officer positions is 1 year beginning and ending on the d
 
 ### Section A. Dates of Election
 
-Regular officer elections shall be held in each spring semester during March or April, with the exact date to be determined by the Executive Board. Notice to the general body must be given at least three weeks prior to the date of election, and there must be at least one meeting in the intervening period between the announcement of the election and the election itself. Special elections may be called by the executive board if an elected position has been vacated (through resignation or the removal process), and must be announced at least two weeks prior.
+Regular officer elections shall be held in each spring semester, with the exact date to be determined by the Executive Board. Notice to the general body must be given at least three weeks prior to the date of election, and there must be at least one meeting in the intervening period between the announcement of the election and the election itself. Special elections may be called by the executive board if an elected position has been vacated (through resignation or the removal process), and must be announced at least two weeks prior.
 
 ### Section B. Eligibility
 
