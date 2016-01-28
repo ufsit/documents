@@ -98,7 +98,7 @@ Any elected officer may propose the removal of an officer to the executive board
 
 ### Section E. Term of Office
 
-Term of office for all officer positions is 1 year beginning and ending on the date of election.
+Term of office for all officer positions is from installation until the installation of the new officers following the next election.
 
 ## Article VII: Elections
 
