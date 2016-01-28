@@ -59,7 +59,6 @@ The duties of the President include:
 - Maintain communication with the organization's faculty advisor
 - Be responsible for facilitating the resolution of internal organizational conflicts and taking any necessary steps not prohibited by the constitution to ensure the effective operation of the organization
 - Assign additional duties to other officers, as necessary
-- Table for a minimum of 3 hours per week that the organization is actively tabling
 - Provide all relevant documents and records to the succeeding President
 
 The duties of the Vice President include:
@@ -71,7 +70,6 @@ The duties of the Vice President include:
 - Keep an accurate record of officer and general meetings in the absence of the Secretary
 - Be responsible for facilitating the resolution of internal organizational conflicts in which the President has a clear and demonstrated conflict of interest
 - Carry out additional duties as assigned by the President
-- Table for a minimum of 3 hours per week that the organization is actively tabling
 - Provide all relevant documents and records to the succeeding Vice President
 
 The duties of the Treasurer include:
@@ -84,19 +82,15 @@ The duties of the Treasurer include:
 - Determine costs for events, trips, and needed materials. Assist Vice President in budgeting for retreats and conferences
 - Assume the responsibilities of the President in the event of both the President and the Vice President's absence or inability
 - Carry out additional duties as assigned by the President
-- Table for a minimum of 3 hours per week that the organization is actively tabling
 - Provide all relevant documents and records to the succeeding Treasurer
 
 The duties of the Secretary include:
 
-- Maintain accurate records and minutes from all meetings. Post all minutes as public record, in a way deemed appropriate by the executive board
-- Maintain accurate list of all members, their contact information, and their status as active members.
+- Maintain accurate records and minutes from all meetings where official action occurs such as elections. Post all minutes as public record, in a way deemed appropriate by the executive board
+- Maintain accurate list of all members, their contact information, and their status as active members
 - Maintain an accurate record of attendance at officer and general meetings
-- Present attendance records for all general and executive board meetings at all executive board meetings, Records shall include the names of the active members in attendance.
 - Carry out additional duties as assigned by the President
-- Table for a minimum of 3 hours per week that the organization is actively tabling
 - Provide all relevant documents and records to the succeeding Secretary
-
 
 ### Section D. Removal of Officers
 
