@@ -199,11 +199,7 @@ Committees may be formed by a vote of the executive board; active student member
 
 Standing committees must be called at least once each year by a vote of the executive board. These committees will become active when the board calls them to order. The standing committees will consist of the Constitution Committee.
 
-## Article XIII: Endorsements
-
-The organization may endorse a candidate only in a general or nonpartisan election. Any endorsement may be proposed to the general body by any active student member. An endorsement is ratified by a two-thirds vote of active student members present at the meeting. If two candidates in the same race are proposed for endorsement, they will be voted for on the same ballot. In all votes, the option of non-endorsement will be provided. Votes will go to a runoff if no option receives a two thirds majority. If no option receives a two thirds majority in the final vote, the organization will not endorse any candidate in that race. Endorsement votes must be announced at least one week prior. 
-
-## Article XIV: Stipulations Regarding Active Membership
+## Article XIII: Stipulations Regarding Active Membership
 
 ### Section A. Ethics Agreement
 
@@ -213,7 +209,7 @@ Members are required to sign an ethics agreement or any new or updated ethics ag
 
 Members must attend at least three in-house meetings and at least one additional club sponsored event per attending semester.
 
-## Article XV: Amendments
+## Article XIV: Amendments
 
 ### Section A. Proposal Procedure
 
