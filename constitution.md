@@ -197,7 +197,7 @@ Committees may be formed by a vote of the executive board; active student member
 
 ### Section B. Standing Committees
 
-Standing committees must be called at least once each year by a vote of the executive board. These committees will become active when the board calls them to order. The standing committees will consist of the Constitution Committee and the Social Committee.
+Standing committees must be called at least once each year by a vote of the executive board. These committees will become active when the board calls them to order. The standing committees will consist of the Constitution Committee.
 
 ## Article XIII: Endorsements
 
