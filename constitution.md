@@ -96,10 +96,6 @@ The duties of the Secretary include:
 
 Any elected officer may propose the removal of an officer to the executive board, in the event an officer is failing to fulfill their duties or is willfully acting to the detriment of the organization. An officer will be removed from office by a majority vote of the executive board and the general body, or by a two-thirds vote of the executive board. The general body shall consist of all active student members present at a meeting. The President may appoint an interim officer to serve in the vacated position, until an election may be held.
 
-### Section E. Term of Office
-
-Term of office for all officer positions is from installation until the installation of the new officers following the next election.
-
 ## Article VII: Elections
 
 ### Section A. Dates of Election
@@ -122,7 +118,7 @@ Before the election, the Secretary shall verify the active member status of all 
 
 ### Section D. Election Procedure
 
-At the meeting during which the election is to take place, the highest-ranking officer of the organization who is not running for office in the current election shall preside over the elections. Blank paper shall be provided for the election by the Secretary for use as ballots.
+At the meeting during which the election is to take place, the highest-ranking officer of the organization who is not running for office in the current election shall preside over the elections. If all officers are running for office, then the president will designate a member who is not running to preside over the elections. Blank paper shall be provided for the election by the Secretary for use as ballots.
 Election of officers shall occur in the order which executive board positions are listed in Article VI, Section C, beginning with the Presidency. Candidate speeches, debate, and/or question and answer opportunities will be provided prior to the elections for each office, the format of which shall be decided by the executive board at the time of setting the election date. Only active student members may pose questions or engage in the discussion.
 After debate, secret ballots shall be submitted by all voting members, except the sitting President, and tabulated by the presiding officer, observed by the Secretary and faculty advisor, if present. Potential officers shall be elected by a majority of votes cast, unless no candidate receives a majority. In this case, a runoff election will occur between the two candidates who received the greatest number of votes. In the event of a tie during the runoff or a tie in the first round that would result in more than two candidates making the runoff, the sitting President will break the tie. Potential officers may slate down to run for a lower office if not elected to the office he/she was initially nominated for. There is no limit on the number of times a candidate may slate down.
 
