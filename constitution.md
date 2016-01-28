@@ -82,7 +82,6 @@ The duties of the Treasurer include:
 - Create a fundraising plan and manage fundraising projects
 - Be one of two officers with direct access to the bank account. The Treasurer will be responsible for managing the bank account.
 - Present the current balance of the bank account at all executive board meetings
-- Collect all membership dues, notify members who are delinquent on dues payments, and deposit all dues into the bank account
 - Determine costs for events, trips, and needed materials. Assist Vice President in budgeting for retreats and conferences
 - Assume the responsibilities of the President in the event of both the President and the Vice President's absence or inability
 - Carry out additional duties as assigned by the President
