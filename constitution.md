@@ -167,7 +167,7 @@ Funds, obtained through donations or other avenues, may be collected by any elec
 
 ### Section E.  Financial Obligations
 
-Student Information Security Team will not require membership dues. Student Information Security Team will also apply for Student Government funding. 
+Student Information Security Team will not require membership dues. Student Information Security Team will also apply for Student Government funding.
 
 ## Article X: Dissolution of Organization
 
@@ -179,7 +179,7 @@ In the event that this organization dissolves, all monies left in the account, a
 
 ### Section A. General Meetings
 
-The general membership of the organization shall meet at least once per month during the fall and spring semesters, and at least once during the summer semester.
+The general membership of the organization shall meet at least once per month during the fall and spring semesters.
 
 ### Section B. Officer Meetings
 
