@@ -187,7 +187,7 @@ The executive board of the organization shall meet at least once per month durin
 
 ### Section C. Calling Meetings
 
-The President is responsible for calling all general and officer meetings. In the absence of the President, the Vice President has the authority to call a meeting. The Director of Communications is responsible for making a good faith effort to inform all members of any meeting. Such notification must be issued at least 72 hours prior to any meeting. 
+The President is responsible for calling all general and officer meetings. In the absence of the President, the Vice President has the authority to call a meeting. The Secretary is responsible for making a good faith effort to inform all members of any meeting. Such notification must be issued at least 36 hours prior to any meeting.
 
 ## Article XII: Committees
 
