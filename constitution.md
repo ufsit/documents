@@ -124,7 +124,7 @@ After debate, secret ballots shall be submitted by all voting members, except th
 
 ### Section E. Length of Term
 
-The newly elected executive board will take office at a joint meeting of the outgoing and incoming boards, which shall occur no later than the beginning of the Summer semester. Officers will serve until the next such meeting after the following election.
+The newly elected executive board will take office at a joint meeting of the outgoing and incoming boards, which shall occur no later than the beginning of the Summer semester. Officers will serve until the next such meeting after the following election. This meeting is defined as the installation of new officers.
 
 ## Article VIII: Faculty Advisor
 
@@ -159,7 +159,7 @@ Only the President and Treasurer will be authorized signers with the organizatio
 
 ### Section C. Transition of Financial Authority
 
-The outgoing President and Treasurer are responsible for transferring financial account authority to the incoming President and Treasurer within two weeks of the relevant officer election. Outgoing officers may not maintain any financial authority or account access once they have transferred responsibility to their incoming counterparts.
+The outgoing President and Treasurer are responsible for transferring financial account authority to the incoming President and Treasurer within two weeks of the installation of new officers. Outgoing officers may not maintain any financial authority or account access once they have transferred responsibility to their incoming counterparts.
 
 ### Section D. Handling of Funds
 
