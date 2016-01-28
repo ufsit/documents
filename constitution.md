@@ -12,7 +12,6 @@ The primary purpose of this organization is to expand its members' knowledge of 
 
 Upon approval by the Department of Student Activities and Involvement, Student Information Security Team shall be a registered student organization at the University of Florida. Student Information Security Team shall comply with all local, state and federal laws, as well as all University of Florida regulations, policies, and procedures. Such compliance includes but is not limited to the University's regulations related to Non-Discrimination, Sexual Harassment (including sexual misconduct, dating violence, domestic violence, and stalking), Hazing, Commercial Activity, and Student Leader Eligibility. 
 
-
 ## Article IV: University Regulations
 
 ### Section A. Non-Discrimination
