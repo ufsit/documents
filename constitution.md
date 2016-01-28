@@ -163,11 +163,11 @@ The outgoing President and Treasurer are responsible for transferring financial 
 
 ### Section D. Handling of Funds
 
-Funds, obtained through donations, may be collected by any elected officer, but must be turned over to the Treasurer or President within 48 business hours. Once received by the Treasurer or President, funds shall be deposited within 48 business hours of collection, absent exceptional circumstances.
+Funds, obtained through donations or other avenues, may be collected by any elected officer, but must be turned over to the Treasurer or President within 48 business hours. Once received by the Treasurer or President, funds shall be deposited within 48 business hours of collection, absent exceptional circumstances.
 
 ### Section E.  Financial Obligations
 
-Student Information Security Team will not require membership dues; however, it will raise funds through carwashes and similar activities, for t-shirts, travel to leadership conferences, and other operational expenses of the organization. Members are expected to participate in these fundraising activities. Student Information Security Team will also apply for Student Government funding. 
+Student Information Security Team will not require membership dues. Student Information Security Team will also apply for Student Government funding. 
 
 ## Article X: Dissolution of Organization
 
