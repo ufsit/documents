@@ -20,7 +20,7 @@ Student Information Security Team agrees that it will not discriminate on the ba
  
 ### Section B. Sexual Harassment 
 
-Student Information Security Team agrees that it will not engage in any activity that is unwelcome conduct of sexual nature that creates a hostile environment.
+Student Information Security Team agrees that it will not engage in any activity that is unwelcome conduct of sexual nature that creates a hostile environment.Behaviors that could create a hostile environment include sexual harassment (which could include inappropriate sexual comments), sexual misconduct, dating violence, domestic violence, and stalking.
 
 ### Section C. Hazing 
 
