@@ -28,7 +28,7 @@ Student Information Security Team agrees that it will not initiate, support, or 
 
 ### Section D. Responsibility to Report 
 
-If this organization becomes aware of any such conduct described in this article, Student Information Security Team will report it immediately to Student Activities 
+If this organization becomes aware of any such conduct described in this article, Student Information Security Team will report it immediately to Student Activities and Involvement, the Director of Student Conduct and Conflict Resolution, or the University's Title IX Coordinator.
 
 ## Article V: Membership
 
@@ -36,15 +36,7 @@ Membership in this organization is open to all enrolled students at the Universi
 
 ## Article VI: Officers
 
-### Section A. Eligibility
-
-Individuals holding office must meet the University of Florida's criteria for officers of student organizations.
-
-### Section B. Additional Eligibility Criteria
-
-Individuals holding office must be considered active student members of the Student Information Security Team, as per Article V and Article XIV, at least two weeks prior to their election.
-
-### Section C. Officer Positions and Duties
+### Section A. Officer Positions and Duties
 
 The executive board shall consist of the following elected officers: President, Vice President, Treasurer, and Secretary. The board may appoint additional officers, as detailed in the bylaws. 
 
@@ -92,21 +84,29 @@ The duties of the Secretary include:
 - Carry out additional duties as assigned by the President
 - Provide all relevant documents and records to the succeeding Secretary
 
-### Section D. Removal of Officers
+### Section B. Removal of Officers
 
 Any elected officer may propose the removal of an officer to the executive board, in the event an officer is failing to fulfill their duties or is willfully acting to the detriment of the organization. An officer will be removed from office by a majority vote of the executive board and the general body, or by a two-thirds vote of the executive board. The general body shall consist of all active student members present at a meeting. The President may appoint an interim officer to serve in the vacated position, until an election may be held.
+
+### Section C. Length of Term
+
+The newly elected executive board will take office at a joint meeting of the outgoing and incoming boards, which shall occur no later than the beginning of the Summer semester. Officers will serve until the next such meeting after the following election. This meeting is defined as the installation of new officers.
 
 ## Article VII: Elections
 
 ### Section A. Dates of Election
 
-Regular officer elections shall be held in each spring semester, with the exact date to be determined by the Executive Board. Notice to the general body must be given at least three weeks prior to the date of election, and there must be at least one meeting in the intervening period between the announcement of the election and the election itself. Special elections may be called by the executive board if an elected position has been vacated (through resignation or the removal process), and must be announced at least two weeks prior.
+Regular officer elections shall be held in early April. Notice to the general body must be given at least three weeks prior to the date of election, and there must be at least one meeting in the intervening period between the announcement of the election and the election itself. Special elections may be called by the executive board if an elected position has been vacated (through resignation or the removal process), and must be announced at least two weeks prior. 
 
 ### Section B. Eligibility
 
-Eligibility requirements in Article VI, Sections A and B must be met by all prospective candidates.
+Individuals holding office must meet the University of Florida's criteria for officers of student organizations.
 
-### Section C. Nominations
+### Section C. Additional Eligibility Criteria
+
+Individuals holding office must be considered active student members of the Student Information Security Team, as per Article V and Article XIV, at least two weeks prior to their election.
+
+### Section D. Nominations
 
 Nominations from any active member shall be taken for each elected position in the following ways:
 
@@ -116,15 +116,11 @@ Nominations from any active member shall be taken for each elected position in t
 
 Before the election, the Secretary shall verify the active member status of all individuals who have been nominated to run for office.
 
-### Section D. Election Procedure
+### Section E. Election Procedure
 
 At the meeting during which the election is to take place, the highest-ranking officer of the organization who is not running for office in the current election shall preside over the elections. If all officers are running for office, then the president will designate a member who is not running to preside over the elections. Blank paper shall be provided for the election by the Secretary for use as ballots.
-Election of officers shall occur in the order which executive board positions are listed in Article VI, Section C, beginning with the Presidency. Candidate speeches, debate, and/or question and answer opportunities will be provided prior to the elections for each office, the format of which shall be decided by the executive board at the time of setting the election date. Only active student members may pose questions or engage in the discussion.
+Election of officers shall occur in the order which executive board positions are listed in Article VI, Section A, beginning with the Presidency. Candidate speeches, debate, and/or question and answer opportunities will be provided prior to the elections for each office, the format of which shall be decided by the executive board at the time of setting the election date. Only active student members may pose questions or engage in the discussion.
 After debate, secret ballots shall be submitted by all voting members, except the sitting President, and tabulated by the presiding officer, observed by the Secretary and faculty advisor, if present. Potential officers shall be elected by a majority of votes cast, unless no candidate receives a majority. In this case, a runoff election will occur between the two candidates who received the greatest number of votes. In the event of a tie during the runoff or a tie in the first round that would result in more than two candidates making the runoff, the sitting President will break the tie. Potential officers may slate down to run for a lower office if not elected to the office he/she was initially nominated for. There is no limit on the number of times a candidate may slate down.
-
-### Section E. Length of Term
-
-The newly elected executive board will take office at a joint meeting of the outgoing and incoming boards, which shall occur no later than the beginning of the Summer semester. Officers will serve until the next such meeting after the following election. This meeting is defined as the installation of new officers.
 
 ## Article VIII: Faculty Advisor
 
@@ -173,7 +169,7 @@ Student Information Security Team will not require membership dues. Student Info
 
 ### Section A. Dissolution
 
-In the event that this organization dissolves, all monies left in the account, after outstanding debts and claims have been paid, shall be donated to the University of Florida Association for Computing Machinery student organization.
+In the event that this organization dissolves, all monies left in the account, after outstanding debts and claims have been paid, shall be donated to the National Association for Computing Machinery.
 
 ## Article XI: Meetings
 
