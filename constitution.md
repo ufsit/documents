@@ -104,7 +104,7 @@ Individuals holding office must meet the University of Florida's criteria for of
 
 ### Section C. Additional Eligibility Criteria
 
-Individuals holding office must be considered active student members of the Student Information Security Team, as per Article V and Article XIV, at least two weeks prior to their election.
+Everyone can run for an officer position, regardless of membership status.
 
 ### Section D. Nominations
 
@@ -120,7 +120,10 @@ Before the election, the Secretary shall verify the active member status of all 
 
 At the meeting during which the election is to take place, the highest-ranking officer of the organization who is not running for office in the current election shall preside over the elections. If all officers are running for office, then the president will designate a member who is not running to preside over the elections. Blank paper shall be provided for the election by the Secretary for use as ballots.
 Election of officers shall occur in the order which executive board positions are listed in Article VI, Section A, beginning with the Presidency. Candidate speeches, debate, and/or question and answer opportunities will be provided prior to the elections for each office, the format of which shall be decided by the executive board at the time of setting the election date. Only active student members may pose questions or engage in the discussion.
-After debate, secret ballots shall be submitted by all voting members, except the sitting President, and tabulated by the presiding officer, observed by the Secretary and faculty advisor, if present. Potential officers shall be elected by a majority of votes cast, unless no candidate receives a majority. In this case, a runoff election will occur between the two candidates who received the greatest number of votes. In the event of a tie during the runoff or a tie in the first round that would result in more than two candidates making the runoff, the sitting President will break the tie. Potential officers may slate down to run for a lower office if not elected to the office he/she was initially nominated for. There is no limit on the number of times a candidate may slate down.
+After debate, secret ballots shall be submitted by all voting members, except the sitting President, and tabulated by the presiding officer, observed by the Secretary and faculty advisor, if present. Potential officers shall be elected by a majority of votes cast, unless no candidate receives a majority. In this case, an instant runoff election will occur between the candidates who received the greatest number of votes, eliminating the candidate with the least number of votes. In the event of a tie during the runoff or a tie in the first round that would result in more than two candidates making the runoff, the sitting President will break the tie. The Vice President will only vote in the President election in the event of a tie during the runoff or a tie in the first round that would result in more than two candidates making the runoff.
+Potential officers may slate down to run for a lower office if not elected to the office he/she was initially nominated for. There is no limit on the number of times a candidate may slate down. The Vice President will only vote in the President election in the event of a tie during the runoff or a tie in the first round that would result in more than two candidates making the runoff.
+If an active member is unable to attend the meeting, they will be eligible to vote through an absentee ballot. The ballot should consist of a unique URI to a form that only the active member can access. The ballot will remain open for a week.
+
 
 ## Article VIII: Faculty Advisor
 
@@ -168,7 +171,7 @@ Student Information Security Team will not require membership dues. Student Info
 ## Article X: Dissolution of Organization
 
 ### Section A. Dissolution
-
+I definitely 
 In the event that this organization dissolves, all monies left in the account, after outstanding debts and claims have been paid, shall be donated to the National Association for Computing Machinery.
 
 ## Article XI: Meetings
@@ -203,7 +206,7 @@ Members are required to sign an ethics agreement or any new or updated ethics ag
 
 ### Section B. Attendance
 
-Members must attend at least three in-house meetings and at least one additional club sponsored event per attending semester.
+Members must sign in to at least six in-house meetings and at least two additional club sponsored events per academic year. An in-house meeting is defined by the organization's weekly workshops and the Collegiate Cyber Defense Team's meetings. Additional club-sponsored events include (but are not limited to) in person Capture The Flag events, security conferences, and the Collegiate Cyber Defense Competition. 
 
 ## Article XIV: Amendments
 
