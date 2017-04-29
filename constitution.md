@@ -120,7 +120,11 @@ Before the election, the Secretary shall verify the active member status of all 
 
 At the meeting during which the election is to take place, the highest-ranking officer of the organization who is not running for office in the current election shall preside over the elections. If all officers are running for office, then the president will designate a member who is not running to preside over the elections. Blank paper shall be provided for the election by the Secretary for use as ballots.
 Election of officers shall occur in the order which executive board positions are listed in Article VI, Section A, beginning with the Presidency. Candidate speeches, debate, and/or question and answer opportunities will be provided prior to the elections for each office, the format of which shall be decided by the executive board at the time of setting the election date. Only active student members may pose questions or engage in the discussion.
-After debate, secret ballots shall be submitted by all voting members, except the sitting President, and tabulated by the presiding officer, observed by the Secretary and faculty advisor, if present. Potential officers shall be elected by a majority of votes cast, unless no candidate receives a majority. In this case, a runoff election will occur between the two candidates who received the greatest number of votes. In the event of a tie during the runoff or a tie in the first round that would result in more than two candidates making the runoff, the sitting President will break the tie. Potential officers may slate down to run for a lower office if not elected to the office he/she was initially nominated for. There is no limit on the number of times a candidate may slate down.
+After debate, secret ballots shall be submitted by all voting members, except the sitting President, and tabulated by the presiding officer, observed by the Secretary and faculty advisor, if present. Potential officers shall be elected by a ranked voting system. In the event of a tie during the runoff or a tie in the first round that would result in more than two candidates making the runoff, the sitting President will break the tie. Potential officers may slate down to run for a lower office if not elected to the office he/she was initially nominated for. There is no limit on the number of times a candidate may slate down. The Vice President will only vote in the President election in the event of a tie during the runoff or a tie in the first round that would result in more than two candidates making the runoff.
+
+### Section F. Absentee Ballots
+
+In the event that an active member is unable to attend the eletion to cast their vote, a unique form will be sent to them to be filled out for voting. The individual who distributes the absentee ballots will be voted on by the current board.
 
 ## Article VIII: Faculty Advisor
 
@@ -203,7 +207,7 @@ Members are required to sign an ethics agreement or any new or updated ethics ag
 
 ### Section B. Attendance
 
-Members must attend at least three in-house meetings and at least one additional club sponsored event per attending semester.
+Members must attend at least six in-house meetings and at least two additional club sponsored event per academic year. In-house meetings can be satisfied by attending the organization's weekly workshops or attending the Collegiate Cyber Defense Team's meetings. Additional club sponsored events include (but are not limited to) Capture The Flag events, security conferences with the club, Collegiate Cyber Defense Team competition. 
 
 ## Article XIV: Amendments
 
